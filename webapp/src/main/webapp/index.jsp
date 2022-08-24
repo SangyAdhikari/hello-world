@@ -2,7 +2,7 @@
 <html>
 
    <head>
-      <title>Text Input Control</title>
+      <title>Login Page</title>
    </head>
 	
    <body>
